@@ -1,0 +1,2 @@
+123456789012 my-frst-aws-account
+120987654321 my-second-aws-account
